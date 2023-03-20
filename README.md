@@ -5,6 +5,6 @@ This code comprises of two parts, one is the super-resolution part, which is use
 
 The algorithm code is available, and hope it will help.
 
-Cite Format:
+Citation Format:
 
 Pan Z, Wang S, Li Y. Residual Attention-Aided U-Net GAN and Multi-Instance Multilabel Classifier for Automatic Waveform Recognition of Overlapping LPI Radar Signals[J]. IEEE Transactions on Aerospace and Electronic Systems, 2022, 58(5): 4377-4395.
